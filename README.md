@@ -1,28 +1,12 @@
-<h2> Fullstack Develop<h2>
+![github-header-image](https://user-images.githubusercontent.com/77445841/210427265-02165e8a-2bd9-446d-b167-902a45faf854.png)
 
-[![Twitter: JoseLuis_Mares](https://img.shields.io/twitter/follow/JoseLuis_Mares?style=social)](https://twitter.com/JoseLuis_Mares/)
-[![Linkedin: jose-luis-mares-17674558](https://img.shields.io/badge/-Jose%20Luis%20Mares-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-luis-mares-17674558/)](https://www.linkedin.com/in/jose-luis-mares-17674558/)
-[![GitHub JoseLuis_Mares](https://img.shields.io/github/followers/JoseMaresm?label=follow&style=social)](https://github.com/JoseMaresm/)
 
-```javascript
-const hr = {
-  code: ['SQL','C#', 'Java', 'Kotlin','Python'], 
-  tools: ['VS Code', 'Visual Studio', 'Android Studio'],
-  areas: ['Database', 'Mobile', 'Custom Software']
-}
-```
+Eloquent and focused on meeting goals, highly committed to the needs of the company and teamwork.
 
-<!--
-**JoseMaresm/JoseMaresm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  JS / HTML / CSS / JAVA / ASP.NET / Razor / Kotlin / C# / SQL /
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter, Swift 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseMaresm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-luis-mares-17674558/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JoseLuis_Mares)  
+
