@@ -3,7 +3,7 @@
 
 Eloquent and focused on meeting goals, highly committed to the needs of the company and teamwork.
 
-Skills:  JS / HTML / CSS / JAVA / ASP.NET / Razor / Kotlin / C# / SQL / MySQL / SQL / Flutter
+Skills:  JS / HTML / CSS / JAVA / ASP.NET / Razor / Kotlin / C# / MySQL / MySQL / SQL Server / Flutter
 
 - 🌱 I’m currently learning Flutter, Swift 
 
